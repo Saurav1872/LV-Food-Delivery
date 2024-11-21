@@ -54,7 +54,7 @@ input:focus{
     background-color: rgb(3, 149, 3);
 }
 .login-body, .register-body{
-    background-image: url(../Dashboard/image/jeni.jpg);
+    background-image: url(../Dashboard/image/main1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
